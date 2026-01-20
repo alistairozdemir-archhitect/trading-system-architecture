@@ -71,3 +71,33 @@ My work focuses on infrastructure, execution correctness, and risk architecture 
 
 This repository exists as a public reference point for how I reason about systems, not as a code drop.
 
+---
+
+## Who this is for
+
+This repository is written for:
+
+- founders running capital with real money
+- teams whose backtests looked great but failed in production
+- funds struggling with execution, drawdowns, or silent risk
+- clients who already have strategies but lack system discipline
+
+It is **not** written for:
+- signal sellers
+- indicator optimization
+- one-off scripts
+- “just code it” execution tasks
+
+If you recognize these failure patterns, this architecture is relevant.
+
+
+## Architecture documents
+
+- [System layers & responsibility boundaries](architecture/system_layers.md)
+- [Execution realism assumptions](architecture/execution_realism.md)
+- [Risk engine & capital control philosophy](architecture/risk_engine.md)
+- [Failure modes & silent risks](architecture/failure_modes.md)
+- [Monitoring, controls & kill-switch logic](architecture/monitoring_and_killswitch.md)
+- [Decision authority & override hierarchy](architecture/decision_authority.md)
+
+
