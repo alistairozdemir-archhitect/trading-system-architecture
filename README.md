@@ -69,5 +69,5 @@ This repository reflects that mindset.
 I design, operate, and evaluate systematic trading systems deployed with real capital.
 My work focuses on infrastructure, execution correctness, and risk architecture rather than idea generation.
 
-This repository exists as a public reference point for how I reason about systems — not as a code drop.
+This repository exists as a public reference point for how I reason about systems, not as a code drop.
 
